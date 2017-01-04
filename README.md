@@ -33,3 +33,4 @@ colorWord = signal4.getLight();
 Text text4 = new Text(160, 100, colorWord);
 text4.draw();
 ```
+### Output:
