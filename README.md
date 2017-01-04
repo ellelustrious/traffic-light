@@ -34,3 +34,5 @@ Text text4 = new Text(160, 100, colorWord);
 text4.draw();
 ```
 ### Output:
+
+![Output image](https://raw.githubusercontent.com/ellelustrious/traffic-light/master/traffic-light.png)
